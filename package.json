@@ -9,7 +9,7 @@
   "dependencies": {
     "assert": "^2.0.0",
     "async": "^3.1.0",
-    "aws-sdk": "^2.597.0",
+    "aws-sdk": "^2.814.0",
     "axios": "^0.19.2",
     "bent": "^7.0.6",
     "cacache": "^13.0.1",
