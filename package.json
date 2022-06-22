@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "assert": "^2.0.0",
-    "async": "^3.1.0",
+    "async": "^3.2.2",
     "aws-sdk": "^2.597.0",
     "axios": "^0.19.2",
     "bent": "^7.0.6",
